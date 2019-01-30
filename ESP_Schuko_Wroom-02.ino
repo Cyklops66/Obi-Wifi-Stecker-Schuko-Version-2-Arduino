@@ -8,7 +8,8 @@
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or
  * (at your option) any later version.
- */ modified by cyklops66
+ * modified by Christian Zerrahn for Obi Wifi Schuko Version 2
+ 
 
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
