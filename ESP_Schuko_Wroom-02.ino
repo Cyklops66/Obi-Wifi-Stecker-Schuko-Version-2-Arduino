@@ -1,6 +1,4 @@
 /*
- * Creation:    02.11.2016
- * Last Update: 20.12.2016
  *
  * Copyright (c) 2016 by Georg Kainzbauer <http://www.gtkdb.de>
  *
